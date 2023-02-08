@@ -17,11 +17,11 @@ chatGPT注册可以参考[这里](https://juejin.cn/post/7173447848292253704)
 git clone https://github.com/mpegavi/wechatbot-go-x11.git
 
 # 进入项目目录
-cd wechatbot
+cd wechatbot-go-x11
 
 # 复制配置文件
 copy config.dev.json config.json
-启动前需替换config.json中的api_key为下图标红地方。
+启动前需替换config.json中的api_key，api_key为下图标红地方。
 ````
 ![img.png](img.png)
 
